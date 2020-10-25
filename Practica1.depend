@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1481191568 source:c:\users\lafm\desktop\programas\practica1\main.c
+	"Myheader.h"
+
+1481225544 source:c:\users\lafm\desktop\programas\practica1\myfunctions.c
+	"Myheader.h"
+
+1481198394 c:\users\lafm\desktop\programas\practica1\myheader.h
+	<stdio.h>
+	<math.h>
+
+1481191570 source:d:\practica1\main.c
+	"Myheader.h"
+
+1481198396 d:\practica1\myheader.h
+	<stdio.h>
+	<math.h>
+
+1481244834 source:d:\practica1\myfunctions.c
+	"Myheader.h"
+
+1481289795 source:c:\users\usuari\desktop\practica1 version esteban jueves noche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	"Myheader.h"
+
+1481289743 c:\users\usuari\desktop\practica1 version esteban jueves noche\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1481292146 source:c:\users\usuari\desktop\practica1 version esteban jueves noche\myfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	"Myheader.h"
+
+1481298019 source:c:\users\usuari\desktop\practica1 version esteban viernes mañana\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	"Myheader.h"
+
+1481297115 c:\users\usuari\desktop\practica1 version esteban viernes mañana\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1481298192 source:c:\users\usuari\desktop\practica1 version esteban viernes mañana\myfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	"Myheader.h"
+
+1481310280 source:c:\users\usuari\desktop\practica1 version esteban viernes tarde\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	"Myheader.h"
+
+1481310280 c:\users\usuari\desktop\practica1 version esteban viernes tarde\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1481310221 source:c:\users\usuari\desktop\practica1 version esteban viernes tarde\myfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	"Myheader.h"
+
+1481330766 source:c:\users\lafm\desktop\programas\laplaceesteban\practica1 version esteban viernes tarde\main.c
+	"Myheader.h"
+
+1481326892 c:\users\lafm\desktop\programas\laplaceesteban\practica1 version esteban viernes tarde\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1481330766 source:c:\users\lafm\desktop\programas\laplaceesteban\practica1 version esteban viernes tarde\myfunctions.c
+	"Myheader.h"
+
+1481334366 source:c:\users\luisillo\desktop\luis\samples git\farfánjerónimo\pràcticalaplace\main.c
+	"Myheader.h"
+
+1481330492 c:\users\luisillo\desktop\luis\samples git\farfánjerónimo\pràcticalaplace\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+
+1481334366 source:c:\users\luisillo\desktop\luis\samples git\farfánjerónimo\pràcticalaplace\myfunctions.c
+	"Myheader.h"
+
